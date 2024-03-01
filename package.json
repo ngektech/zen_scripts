@@ -1,6 +1,7 @@
 {
   "name": "zen_scripts",
   "version": "1.0.0",
+  "type": "module",
   "description": "Scripts you may need to automate simple tasks",
   "main": "index.js",
   "scripts": {
